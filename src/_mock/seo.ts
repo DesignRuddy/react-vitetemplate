@@ -1,0 +1,15 @@
+export const metaData = {
+  title: "test ",
+  titleTemplate: "bluefrog",
+  siteName: "bluefrog_Lee",
+  titleSeparator: " - ",
+  description:"",
+  image: "https://avatars.githubusercontent.com/u/36574492?v=4",
+  siteUrl: "https://saad-mrabet.me/",
+  siteLanguage: "ko",
+  siteLocale: "ko",
+  twitterUsername: "",
+  githubUsername: "",
+  author: "",
+  fullName: "",
+};
